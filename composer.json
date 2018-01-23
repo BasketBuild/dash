@@ -3,7 +3,7 @@
   "description": "BasketBuild Dashboard",
   "keywords": ["hack", "basketbuild", "hhvm", "file hosting"],
   "homepage": "https://github.com/basketbuild/dash",
-  "license": "GPL-3.0",
+  "license": "GPL-3.0-only",
   "authors": [
     {
       "name": "Drew Walton",
