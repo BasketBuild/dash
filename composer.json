@@ -1,0 +1,6 @@
+{
+  "name": "basketbuild/dash",
+  "description": "BasketBuild Dashboard",
+  "keywords": ["hack", "basketbuild", "hhvm", "file hosting"],
+  "homepage": "https://github.com/basketbuild/dash",
+}
