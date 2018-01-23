@@ -17,6 +17,7 @@
 
   "require": {
     "hhvm": "^3.23",
-    "hhvm/hhvm-autoload": "*"
+    "hhvm/hhvm-autoload": "*",
+    "facebook/hack-router": "^v0.11"
   }
 }
