@@ -2,5 +2,14 @@
   "name": "basketbuild/dash",
   "description": "BasketBuild Dashboard",
   "keywords": ["hack", "basketbuild", "hhvm", "file hosting"],
-  "homepage": "https://github.com/basketbuild/dash"
+  "homepage": "https://github.com/basketbuild/dash",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Drew Walton",
+      "email": "drewwalton19216801@gmail.com",
+      "homepage": "https://basketbuild.com",
+      "role": "Lead Developer"
+    }
+  ]
 }
