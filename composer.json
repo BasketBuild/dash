@@ -11,5 +11,12 @@
       "homepage": "https://basketbuild.com",
       "role": "Lead Developer"
     }
-  ]
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+
+  "require": {
+    "hhvm": "^3.23",
+    "hhvm/hhvm-autoload": "*"
+  }
 }
