@@ -18,6 +18,16 @@
   "require": {
     "hhvm": "^3.23",
     "hhvm/hhvm-autoload": "*",
-    "facebook/hack-router": "^v0.11"
+    "facebook/hack-router": "^v0.11",
+    "symfony/config": "^3.4",
+    "symfony/cache": "^3.4",
+    "symfony/console": "^3.4",
+    "symfony/dotenv": "^3.4",
+    "symfony/finder": "^3.4",
+    "symfony/security": "^3.4",
+    "symfony/form": "^3.4",
+    "symfony/validator": "^3.4",
+    "symfony/routing": "^3.4",
+    "psr/container": "^1.0"
   }
 }

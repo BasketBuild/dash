@@ -1,6 +1,6 @@
 <?hh
 
 // include autoloader
-require("../vendor/hh_autoload.php");
+require_once("../vendor/hh_autoload.php");
 
 echo "Hello World!";
